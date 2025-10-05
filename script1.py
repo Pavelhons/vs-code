@@ -11,3 +11,5 @@ for number in list:
     
 print (f"suma je {suma}, produkt je {produkt}")
     
+print (4+3)
+("1+2")
